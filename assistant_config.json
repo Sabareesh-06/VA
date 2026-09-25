@@ -1,0 +1,15 @@
+{
+    "settings": {
+        "language": "en-IN",
+        "fallback_language": "en-US",
+        "fuzzy_threshold": 0.70,
+        "energy_threshold": 250,
+        "dynamic_energy_threshold": true,
+        "listen_timeout": 6,
+        "phrase_time_limit": 8,
+        "pause_threshold": 1.0,
+        "beep": true
+    },
+    "apps": {},
+    "websites": {}
+}

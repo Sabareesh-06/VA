@@ -1,0 +1,5 @@
+﻿assistant.log
+*.log
+backup/
+__pycache__/
+*.pyc
