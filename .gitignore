@@ -3,3 +3,13 @@
 backup/
 __pycache__/
 *.pyc
+
+# Exclude other projects
+Machine learning/
+POP3.py
+test_key.py
+start_assistant.vbs
+IoT/
+Java/
+New folder/
+Zero Knowledge Proof/
