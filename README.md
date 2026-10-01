@@ -26,12 +26,13 @@ A lightweight, background Windows voice assistant designed for rapid desktop aut
 | **Applications** | chrome, rave, s code / code, 
 otepad, calculator, paint, cmd, powershell, whatsapp, discord, 	ask manager, settings, ile explorer |
 | **Folders** | documents, downloads, pictures, desktop |
-| **System** | olume up, olume down, mute / unmute, lock, screenshot, shutdown (60s timer), cancel shutdown, estart, sleep |
+| **System** | olume up, olume down, mute / unmute, lock, screenshot, shutdown (60s timer), cancel shutdown, 
+estart, sleep |
 | **Information** | 	ime, date / 	oday |
 
 ---
 
-## Configuration (ssistant_config.json)
+## Configuration (Assistant_config.json)
 
 Configure speech parameters, custom applications, and websites:
 
